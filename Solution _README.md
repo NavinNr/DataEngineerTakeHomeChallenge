@@ -3,7 +3,8 @@ These are my answers to the questions that require an output.
 
 1. Original number of rows: 1000
 3. Rows removed: 6
-5. Users ranked 1 in their age group: 
+5. Users ranked 1 in their age group:
+ 
 | id                                   | email                      | age_group |
 |--------------------------------------|----------------------------|-----------|
 | 64c1dc80-0d62-4b19-910b-9f08ca275eaf | jpatricheph@stanford.edu   | 1         |
